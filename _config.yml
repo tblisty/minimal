@@ -3,3 +3,4 @@ description: Opis mojej strony
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme # Wymagane, aby GitHub Pages obsługiwało motyw zdalny
+  - jekyll-include-cache
